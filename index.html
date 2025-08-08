@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sticky Notes App</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div id="toolbar">
+    <button id="add-note-btn">➕ Add Note</button>
+    <label for="color-picker">Theme:</label>
+    <select id="color-picker">
+      <option value="#fffacd">Soft Yellow</option>
+      <option value="#d1f7c4">Mint</option>
+      <option value="#ffd6d6">Blush</option>
+      <option value="#cfe0fc">Sky</option>
+      <option value="#fce4ec">Rose</option>
+    </select>
+  </div>
+
+  <div id="notes-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
