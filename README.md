@@ -12,7 +12,7 @@ A modern, mobile-responsive sticky notes web app featuring:
 
 ## Demo
 
-Try the live demo here: [Your GitHub Pages Link Here](https://your-username.github.io/sticky-notes-app)
+Try the live demo here: [Your GitHub Pages Link Here]( https://amcdonald9.github.io/sticky-notes-app/)
 
 ---
 
